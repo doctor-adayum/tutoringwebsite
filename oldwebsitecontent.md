@@ -86,8 +86,19 @@ Our tutors will design an individualised maths program based on student needs. T
 [Contact us](http://onthemarktutoring.com/contact) today!
 
 ##Fees
+Hourly Rate: $40 per hour (1 hour minimum sessions). We come to you, or we can arrange tutoring via an online platform if preferred.
+
+Reading and editing of drafts: Free after a session for the same assignment.
+
+University Physics and Maths with Stefano: $50 per hour.
 
 ##News
 
-##Contact
+(Blog)
 
+##Contact
+Phone: 0434006172
+
+Email: onthemarktutoring@gmail.com
+
+Facebook: facebook.com/onthemarktutoring
