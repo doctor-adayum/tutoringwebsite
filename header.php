@@ -17,7 +17,7 @@
   
 <body>
   <nav class="cyan" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
+    <div class="nav-wrapper container"><a id="logo-container" href="<?php bloginfo( 'wpurl' );?>" class="brand-logo">Logo</a>
       <ul class="right hide-on-med-and-down">
         <?php wp_list_pages( '&title_li=' ); ?>
       </ul>
