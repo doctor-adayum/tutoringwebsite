@@ -3,7 +3,7 @@
       <br><br>
       <h1 class="header center orange-text"><?php the_title(); ?></h1>
       <div class="row center">
-        <h5 class="header col s12 light"><?php the_content(); ?></h5>
+        <p class="col s12"><?php the_content(); ?></p>
       </div>
       <br><br>
 
