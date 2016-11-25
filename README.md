@@ -10,17 +10,17 @@ https://www.materialpalette.com/blue/cyan
 
 
 ##Notes
-Old website
+Old website: 
 http://onthemarktutoring.com/
 
-Email newsletter: Mailchimp (also 
+Email newsletter: Mailchimp (also have a look at their ecommerce options)
 https://mailchimp.com/
 
 Web domain/hosting: CrazyDomains (also provides custom email address)
 https://www.crazydomains.com.au/web-hosting/
 https://www.crazydomains.com.au/ssl-certificates/
 
-Web Payments: [Paypal](https://www.paypal.com/au/webapps/mpp/paypal-seller-fees) or [Payhero](https://payhero.co/au/)
+Web Payments: [Paypal](https://www.paypal.com/au/webapps/mpp/paypal-seller-fees) or [Payhero](https://payhero.co/au/).
 Must integrate with [Quickbooks](https://www.intuit.com.au/features/)
 
 Email address: included with Crazydomains, otherwise [G suite](https://gsuite.google.com/intl/en_au/pricing.html) $5/month
