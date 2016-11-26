@@ -20,6 +20,9 @@ Web domain/hosting: CrazyDomains (also provides custom email address)
 https://www.crazydomains.com.au/web-hosting/
 https://www.crazydomains.com.au/ssl-certificates/
 
+Also look at [fastcomet](http://www.fastcomet.com/compare-shared-package) as it offers really cheap fast hosting
+
+
 Web Payments: [Paypal](https://www.paypal.com/au/webapps/mpp/paypal-seller-fees) or [Payhero](https://payhero.co/au/).
 Must integrate with [Quickbooks](https://www.intuit.com.au/features/)
 
