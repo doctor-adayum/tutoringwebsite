@@ -39,9 +39,7 @@ function custom_settings_page_setup() {
   register_setting('section', 'github');
 }
 add_action( 'admin_init', 'custom_settings_page_setup' );
-
-
-
+  
 
 //Input fields
 function setting_github() { ?>
@@ -52,3 +50,5 @@ function setting_github() { ?>
 function setting_twitter() { ?>
   <input type="text" name="twitter" id="twitter" value="<?php echo get_option('twitter'); ?>" />
 <?php }
+
+//frontpage link 1
