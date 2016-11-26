@@ -8,3 +8,4 @@ function onthemarktutoring_scripts() {
 }
 
 add_action( 'wp_enqueue_scripts', 'startwordpress_scripts' );
+add_theme_support( 'title-tag' );
