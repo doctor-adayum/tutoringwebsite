@@ -1,9 +1,9 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text"><?php the_title(); ?></h1>
+      <h1 class="header center orange-text"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
       <div class="row center">
-        <p class="col s12"><?php the_content(); ?></p>
+        <p class="col s12"><?php the-excerpt(); ?></p>
       </div>
       <br><br>
 
